@@ -1,0 +1,10 @@
+Python Java Python
+C C++ Java
+Python JavaScript
+Java Python C
+JavaScript C++ Python
+Java Java Java
+Python C Java
+JavaScript Python C++
+C Java Python
+Python Python Java
